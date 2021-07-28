@@ -1,0 +1,52 @@
+h2 {
+    color: #363958;
+    font-size: 2.5rem;
+}
+
+h4 {
+    color: #363958;
+    font-size: 1.5rem;
+}
+
+h5 {
+    color: #FA804C;
+    font-size: 2.25rem;
+}
+
+/*----------------------------
+         Top Banner Styles 
+------------------------------*/
+.orange-text {
+    color: #FA804C;
+}
+.top-banner-text {
+    color:#363958;
+    font-size: 4.5rem;
+}
+
+/*--------------------------------
+        Button Buy Now  
+----------------------------------*/
+.btn-buy-now {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+
+/*----------------------------------
+         Main Contents Styles 
+------------------------------------*/
+
+.main-sec .card, .card-image {
+    border-radius: 20px;
+}
+
+/* Card Image */
+.card-image {
+    background-color: #F1F1F1;
+}
+
+.card-image img {
+    width: 312px;
+    height: 312px;
+}
